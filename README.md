@@ -2,7 +2,7 @@
 
 Following this [course](https://huggingface.co/course/chapter0?fw=pt) and learning how to use and fine-tune transformer models
 
-##Setup
+## Setup
 
 - Download Jupyter Notebook extension for VSCode
 - Download Python
