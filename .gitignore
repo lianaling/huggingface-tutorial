@@ -1,3 +1,6 @@
-models/
-test-trainer/
-tokenizers/
+# Ignore everything
+*
+
+# Except notebooks
+!*.ipynb
+!README.md
